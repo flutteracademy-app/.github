@@ -11,7 +11,7 @@
   - Editar el código en VSCode.
   - Control de versiones con Git.
   - UX/UI con Figma.
-- 📫 Contacta conmigo por __[twitter](https://twitter.com/ChemaBarbaS) o __[email](jose09511@gmail.com) 
+- 📫 Contacta conmigo por __[twitter](https://twitter.com/ChemaBarbaS)__ o __[email](mailto:jose09511@gmail.com)__ 
 
 
 
