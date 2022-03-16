@@ -1,4 +1,4 @@
-<center>Centered ## Hi there 👋</center>
+<center>## Hi there 👋</center>
 
 <!--
 
