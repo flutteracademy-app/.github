@@ -4,9 +4,7 @@
 
 Soy formador y desarrollador de Apps Móviles.
 
-Aprende a desarrollar apps nativas.
-
-Estoy especializado en Flutter y tecnologías Serveless como Firebase y Google Cloud Platform.
+Estoy especializado en **Flutter** y tecnologías Serveless como **Firebase** y **Google Cloud Platform**.
 
 
 
