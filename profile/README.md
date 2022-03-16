@@ -11,7 +11,7 @@
   - Editar el código en VSCode.
   - Control de versiones con Git.
   - UX/UI con Figma.
-- 📫 Contacta conmigo por __[twitter](https://twitter.com/ChemaBarbaS)__ __[LinkedIn](https://www.linkedin.com/in/jose-manuel-barba-s%C3%A1nchez-desarrollador-flutter/)__ o __[email](mailto:jose09511@gmail.com)__ 
+- 📫 Contacta conmigo por __[twitter](https://twitter.com/ChemaBarbaS)__ o __[email](mailto:jose09511@gmail.com)__ 
 
 
 
