@@ -4,6 +4,14 @@
 - 💙 Soy un **early adopter** de la tecnología de Flutter. (+3 años de experiencia).
 - 🚀 Soy formador y desarrollador de Apps Móviles.
 - 🔥 Estoy especializado en **Flutter** y tecnologías Serveless como **Firebase** y **Google Cloud Platform**.
+- 📚 Conmigo aprenderas:
+  - Dart desde 0.
+  - Desarrollar Apps en Flutter.
+  - Integrar las Apps con Firebase.
+  - Editar el código en VSCode.
+  - Control de versiones con Git.
+  - UX/UI con Figma.
+
 
 
 
