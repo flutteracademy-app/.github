@@ -1,4 +1,4 @@
- ### ¡Hola, yo soy Chema! 👋
+ ## ¡Hola, yo soy Chema! 👋
  
 - 💙 Soy un **early adopter** de la tecnología de Flutter. (+3 años de experiencia).
 - 🚀 Soy formador y desarrollador de Apps Móviles.
@@ -14,7 +14,7 @@
 
  ---
  
- ### Conecta conmigo
+ ## Conecta conmigo
 
 [![Twitter](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Ftwitter%20icon.png?alt=media&token=7860e8e9-74d0-4292-95a8-b8aa0af4a34d)](https://twitter.com/ChemaBarbaS)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Flinkedin%20icon.png?alt=media&token=f1297f2b-2f6f-4f00-ab6a-80e9f0b76c2a)](https://www.linkedin.com/in/jose-manuel-barba-s%C3%A1nchez-desarrollador-flutter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Website](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fwebsite%20icon.png?alt=media&token=475b0345-9b78-4713-ad30-6d311adbe684)](https://flutteracademy.app/)
 
