@@ -14,7 +14,7 @@
 - 📫 Contacta conmigo por __[twitter](https://twitter.com/ChemaBarbaS)__ o __[email](mailto:jose09511@gmail.com)__ 
 
 
-![LinkedIn](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Ftwitter%20icon.png?alt=media&token=c0756159-e46a-46a2-9667-794f7deadcb7)
+![Twitter](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Ftwitter%20icon.png?alt=media&token=c0756159-e46a-46a2-9667-794f7deadcb7) ![LinkedIn](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Flinkedin%20icon.png?alt=media&token=f1297f2b-2f6f-4f00-ab6a-80e9f0b76c2a) 
 
 
 
