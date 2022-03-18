@@ -19,7 +19,7 @@
 
 ### Skills que obtendrás:
 
-[![Dart](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fdart%20icon.png?alt=media&token=bdee5902-e679-4b66-8f12-48965db3d5f3)](https://dart.dev/)
+[![Dart](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fdart%20icon.png?alt=media&token=bdee5902-e679-4b66-8f12-48965db3d5f3)](https://dart.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Flutter](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fflutter%20icon.png?alt=media&token=a4aefaa0-24fb-45ad-961f-69ecaf0ad526)](https://flutter.dev/)
 
 
 
