@@ -21,6 +21,8 @@
 
 [![Dart](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fdart%20icon.png?alt=media&token=0b051c8e-4da3-4cf7-80ae-5fe320145824)](https://dart.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Flutter](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fflutter%20icon.png?alt=media&token=327ea82b-4373-4543-98f8-2ada301df427)](https://flutter.dev/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Firebase](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Ffirebase%20icon.png?alt=media&token=ca1896f9-e3f1-4a76-92da-616558c29f0e)](https://firebase.google.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Git](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fgit%20icon.png?alt=media&token=2f4b3a81-c245-437f-9bd1-b7a6d9fe9790)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![VSCode](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fvscode%20icon.png?alt=media&token=26363f2d-a633-4d30-adfc-0ab0e38bf2bf)](https://code.visualstudio.com/)
 
+---
+
 
 
 <!--
