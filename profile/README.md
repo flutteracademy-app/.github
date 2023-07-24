@@ -14,7 +14,7 @@
 
  ### Conecta conmigo
 
-[![Twitter](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Ftwitter%20icon.png?alt=media&token=49a2ee29-5912-44f9-ae0f-c92c9f25855c)](https://twitter.com/josemanuel_tech)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Flinkedin%20icon.png?alt=media&token=177ac45a-f5a1-48d3-a0e4-b7ecc9e489af)](https://www.linkedin.com/in/jose-manuel-barba-s%C3%A1nchez-desarrollador-flutter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Website](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fwebsite%20icon.png?alt=media&token=fb29f74a-e3dc-4b6a-9e13-2e05e9aac2af)](https://flutteracademy.app/)
+[![Twitter](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Ftwitter%20icon.png?alt=media&token=49a2ee29-5912-44f9-ae0f-c92c9f25855c)](https://twitter.com/josemanuel_tech)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Flinkedin%20icon.png?alt=media&token=177ac45a-f5a1-48d3-a0e4-b7ecc9e489af)](https://www.linkedin.com/in/jose-manuel-barba-s%C3%A1nchez-programador-flutter/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Website](https://firebasestorage.googleapis.com/v0/b/flutteracademy-507b3.appspot.com/o/icons_github%2Fwebsite%20icon.png?alt=media&token=fb29f74a-e3dc-4b6a-9e13-2e05e9aac2af)](https://flutteracademy.app/)
 
 
 ### Skills que obtendrás:
